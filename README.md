@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thequietprogrammer
 - 👀 I’m interested in discovering spicy things
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on gathering multiple areas to the science side of the force
 - 📫 How to reach me ... well, I think you can find out :D
 
